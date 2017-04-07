@@ -1,0 +1,18 @@
+
+.text-area .content {
+    -fx-background-color: lightsteelblue;
+}
+
+.grid-pane .content {
+    -fx-background-color: black, white ;
+    -fx-background-insets: 0, 1 ;
+}
+
+.vbox .content{
+    -fx-background-color: magenta;
+}
+
+.vbox {
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
